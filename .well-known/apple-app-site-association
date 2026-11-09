@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4M7625YB7Y.com.samgreen.vor"],
+        "components": [
+          { "/": "/join/*", "comment": "A round's code" }
+        ]
+      }
+    ]
+  }
+}
