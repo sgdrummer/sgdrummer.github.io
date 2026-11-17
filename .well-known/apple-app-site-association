@@ -4,7 +4,8 @@
       {
         "appIDs": ["4M7625YB7Y.com.samgreen.vor"],
         "components": [
-          { "/": "/join/*", "comment": "A round's code" }
+          { "/": "/join/*", "comment": "A round's code" },
+          { "/": "/yardage-book/", "?": { "join": "?*" }, "comment": "A friend's round code opens VOR onto joining that round." }
         ]
       }
     ]
